@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ObadiahFlowers
+- 👀 I’m interested in robotics and Game dev. 
+- 🌱 I’m currently learning C++, Blender and Unreal Engine. I'm also interested in learing more. 
+- 💞️ I’m looking to collaborate on any and every thing that can help me grow in my understanding of programing.
+- 📫 How to reach me flowersobadiah@outlook.com
